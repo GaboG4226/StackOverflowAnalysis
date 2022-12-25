@@ -11,3 +11,7 @@ This project will perform an analysis on the developer tendencies regarding seve
 1. Which are the most used programming languages and which are the higher paid?
 2. From years of coding, years of pro coding or education level, which generates the highest salary?
 3. Which way to learn gives the biggest salary? In which type of companies each of these ways to learn people work?
+
+## Medium publication of the analysis
+
+Additionally, the publication of this analysis can be checked vía Medium in the next link: https://medium.com/@gabogarcia4225/developer-tendencies-in-2021-a-data-based-appproach-551fdd4486b6
