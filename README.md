@@ -14,23 +14,23 @@ This project will perform an analysis on the developer tendencies regarding seve
 
 ## Libraries used
 
-pandas==1.3.4
-numpy==1.20.3
-matplotlib==3.4.3
-currency_converter==0.17.1
+pandas==1.3.4_
+numpy==1.20.3_
+matplotlib==3.4.3_
+currency_converter==0.17.1_
 
 ### Installation of requirements
 
-The requierements for this projects can be installed with the line of code provided next: 
-'''
+The requierements for this projects can be installed with the line of code provided next:_
+```
 pip install -r requirements.txt
-'''
+```
 
 ## File description
 
-**StackOverflow_analysis.ipynb:** Notebool with the data analysis
-**survey_results_public_2021.csv:** Dataset used for this project's analysis
-**requierements.txt:** Requierements file to install for this project
+**StackOverflow_analysis.ipynb:** Notebool with the data analysis_
+**survey_results_public_2021.csv:** Dataset used for this project's analysis_
+**requierements.txt:** Requierements file to install for this project_
 
 ## Authors and Acknowledgements
 
