@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## File description
 
-**StackOverflow_analysis.ipynb:** Notebool with the data analysis
+**StackOverflow_analysis.ipynb:** Notebook with the data analysis
 
 **survey_results_public_2021.csv:** Dataset used for this project's analysis
 
