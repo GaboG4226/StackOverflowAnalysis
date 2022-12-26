@@ -12,6 +12,32 @@ This project will perform an analysis on the developer tendencies regarding seve
 2. From years of coding, years of pro coding or education level, which generates the highest salary?
 3. Which way to learn gives the biggest salary? In which type of companies each of these ways to learn people work?
 
+## Libraries used
+
+pandas==1.3.4
+numpy==1.20.3
+matplotlib==3.4.3
+currency_converter==0.17.1
+
+### Installation of requirements
+
+The requierements for this projects can be installed with the line of code provided next: 
+'''
+pip install -r requirements.txt
+'''
+
+## File description
+
+**StackOverflow_analysis.ipynb:** Notebool with the data analysis
+**survey_results_public_2021.csv:** Dataset used for this project's analysis
+**requierements.txt:** Requierements file to install for this project
+
+## Authors and Acknowledgements
+
+**Dataset credit**
+
+StackOverflow. (2021). StackOverflow Annual Survey 2021 (Version 2021) [Dataset]. https://insights.stackoverflow.com/survey
+
 ## Medium publication of the analysis
 
 Additionally, the publication of this analysis can be checked vía Medium in the next link: https://medium.com/@gabogarcia4225/developer-tendencies-in-2021-a-data-based-appproach-551fdd4486b6
